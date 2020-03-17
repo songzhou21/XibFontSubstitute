@@ -53,7 +53,15 @@
       <CommandLineArguments>
          <CommandLineArgument
             argument = "/Users/songzhou/Developer/ios-pdabc-proj2/Swift/Scenes/MineVC/FllowWechatPopView.xib"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-r /Users/songzhou/Developer/ios-pdabc-proj2/Swift"
             isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = ""
+            isEnabled = "NO">
          </CommandLineArgument>
       </CommandLineArguments>
    </LaunchAction>
